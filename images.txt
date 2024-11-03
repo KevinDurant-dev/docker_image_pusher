@@ -1,4 +1,4 @@
 
 
-bitnami/rabbitmq:latest
+rabbitmq:3.13-management
 
